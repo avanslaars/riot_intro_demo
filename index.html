@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title>Riot JS Demo Video</title>
+  </head>
+  <body>
+    <h1>Let's Learn Riot!</h1>
+
+    <hello-world greet="Sally"></hello-world>
+    <hello-world greet="Susan"></hello-world>
+    <hello-world></hello-world>
+
+    <hello-form></hello-form>
+
+    <script src="bower_components/riot/riot.min.js"></script>
+    <script src="tags/all.js"></script>
+    <script>
+      riot.mount('hello-world', {greet:'Joe'})
+      riot.mount('hello-form')
+    </script>
+  </body>
+</html>
