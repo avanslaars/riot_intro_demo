@@ -11,4 +11,4 @@ how to create custom tags [riot.js][riot]
 [avsTwitter]: http://twitter.com/avanslaars
 [avsMedium]: https://medium.com/@avanslaars/
 [riot]: https://muut.com/riotjs/
-[vid]: 
+[vid]: https://www.youtube.com/watch?v=al87U6NgRTc
